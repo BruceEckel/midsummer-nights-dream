@@ -163,7 +163,7 @@ Scornful Lysander, true, he hath my love;
 And what is mine my love shall render him.
 And she is mine, and all my right of her
 I do estate unto Demetrius.
-LYSANDER, to Theseus
+LYSANDER (to Theseus)
 I am, my lord, as well derived as he,
 As well possessed. My love is more than his;
 My fortunes every way as fairly ranked
@@ -1008,7 +1008,7 @@ Made me compare with Hermia's sphery eyne?
 But who is here? Lysander, on the ground!
 Dead or asleep? I see no blood, no wound.-
 Lysander, if you live, good sir, awake.
-LYSANDER, waking up
+LYSANDER (waking up)
 And run through fire I will for thy sweet sake.
 Transparent Helena! Nature shows art,
 That through thy bosom makes me see thy heart.
@@ -1060,7 +1060,7 @@ And, all my powers, address your love and might
 To honor Helen and to be her knight.
 (He exits)
 
-HERMIA, waking up
+HERMIA (waking up)
 Help me, Lysander, help me! Do thy best
 To pluck this crawling serpent from my breast.
 Ay me, for pity! What a dream was here!
@@ -1191,25 +1191,25 @@ according to his cue.
 
 (Enter Robin invisible to those onstage)
 
-ROBIN, aside
+ROBIN (aside)
 What hempen homespuns have we swagg'ring here
 So near the cradle of the Fairy Queen?
 What, a play toward? I'll be an auditor-
 An actor too perhaps, if I see cause.
 QUINCE
 Speak, Pyramus.-Thisbe, stand forth.
-BOTTOM, as Pyramus
+BOTTOM (as Pyramus)
   Thisbe, the flowers of odious savors sweet-
 QUINCE
 Odors, odors!
-BOTTOM, as Pyramus
+BOTTOM (as Pyramus)
     ...odors savors sweet.
   So hath thy breath, my dearest Thisbe dear.-
   But hark, a voice! Stay thou but here awhile,
 And by and by I will to thee appear.
 (He exits)
 
-ROBIN, aside
+ROBIN (aside)
 A stranger Pyramus than e'er played here.
 (He exits)
 
@@ -1219,7 +1219,7 @@ QUINCE
 Ay, marry, must you, for you must understand
 he goes but to see a noise that he heard and is to
 come again.
-FLUTE, as Thisbe
+FLUTE (as Thisbe)
   Most radiant Pyramus, most lily-white of hue,
   Of color like the red rose on triumphant brier,
   Most brisky juvenal and eke most lovely dew Jew,
@@ -1238,7 +1238,7 @@ tire.
 (Enter Robin, and Bottom as Pyramus with the
 ass-head)
 
-BOTTOM, as Pyramus
+BOTTOM (as Pyramus)
   If I were fair, fair Thisbe, I were only thine.
 QUINCE
 O monstrous! O strange! We are haunted. Pray,
@@ -1287,9 +1287,9 @@ He sings.  The ouzel cock, so black of hue,
      With orange-tawny bill,
   The throstle with his note so true,
      The wren with little quill-
-TITANIA, waking up
+TITANIA (waking up)
 What angel wakes me from my flow'ry bed?
-BOTTOM, sings
+BOTTOM (sings)
   The finch, the sparrow, and the lark,
      The plainsong cuckoo gray,
   Whose note full many a man doth mark
@@ -1516,7 +1516,7 @@ For debt that bankrout sleep doth sorrow owe,
 Which now in some slight measure it will pay,
 If for his tender here I make some stay.
 He lies down and falls asleep.
-OBERON, to Robin
+OBERON (to Robin)
 What hast thou done? Thou hast mistaken quite
 And laid the love juice on some true-love's sight.
 Of thy misprision must perforce ensue
@@ -1536,7 +1536,7 @@ I go, I go, look how I go,
 Swifter than arrow from the Tartar's bow.
 (He exits)
 
-OBERON, applying the nectar to Demetrius' eyes
+OBERON (applying the nectar to Demetrius' eyes)
   Flower of this purple dye,
   Hit with Cupid's archery,
   Sink in apple of his eye.
@@ -1588,7 +1588,7 @@ HELENA
 Nor none, in my mind, now you give her o'er.
 LYSANDER
 Demetrius loves her, and he loves not you.
-DEMETRIUS, waking up
+DEMETRIUS (waking up)
 O Helen, goddess, nymph, perfect, divine!
 To what, my love, shall I compare thine eyne?
 Crystal is muddy. O, how ripe in show
@@ -1639,7 +1639,7 @@ Look where thy love comes. Yonder is thy dear.
 
 (Enter Hermia)
 
-HERMIA, to Lysander
+HERMIA (to Lysander)
 Dark night, that from the eye his function takes,
 The ear more quick of apprehension makes;
 Wherein it doth impair the seeing sense,
@@ -1724,9 +1724,9 @@ Stay, gentle Helena. Hear my excuse,
 My love, my life, my soul, fair Helena.
 HELENA
 O excellent!
-HERMIA, to Lysander
+HERMIA (to Lysander)
 Sweet, do not scorn her so.
-DEMETRIUS, to Lysander
+DEMETRIUS (to Lysander)
 If she cannot entreat, I can compel.
 LYSANDER
 Thou canst compel no more than she entreat.
@@ -1746,12 +1746,12 @@ Lysander, whereto tends all this?
 She takes hold of Lysander.
 LYSANDER
 Away! you Ethiop!
-DEMETRIUS, to Hermia
+DEMETRIUS (to Hermia)
 No, no. He'll
 Seem to break loose. To Lysander. Take on as you
 would follow,
 But yet come not. You are a tame man, go!
-LYSANDER, to Hermia
+LYSANDER (to Hermia)
 Hang off, thou cat, thou burr! Vile thing, let loose,
 Or I will shake thee from me like a serpent.
 HERMIA
@@ -1887,7 +1887,7 @@ HERMIA
 I am amazed and know not what to say.
 (She exits)
 
-OBERON, to Robin
+OBERON (to Robin)
 This is thy negligence. Still thou mistak'st,
 Or else committ'st thy knaveries willfully.
 ROBIN
@@ -1958,14 +1958,15 @@ Here comes one.
 
 LYSANDER
 Where art thou, proud Demetrius? Speak thou now.
-ROBIN, in Demetrius' voice
+ROBIN (in Demetrius' voice)
 Here, villain, drawn and ready. Where art thou?
 LYSANDER
 I will be with thee straight.
-ROBIN, in Demetrius' voice  Follow me, then, to
+ROBIN (in Demetrius' voice)
+Follow me, then, to
 plainer ground.
-(Lysander exits)
 
+(Lysander exits)
 
 (Enter Demetrius)
 
@@ -1974,7 +1975,7 @@ Lysander, speak again.
 Thou runaway, thou coward, art thou fled?
 Speak! In some bush? Where dost thou hide thy
 head?
-ROBIN, in Lysander's voice
+ROBIN (in Lysander's voice)
 Thou coward, art thou bragging to the stars,
 Telling the bushes that thou look'st for wars,
 And wilt not come? Come, recreant! Come, thou
@@ -1983,7 +1984,7 @@ I'll whip thee with a rod. He is defiled
 That draws a sword on thee.
 DEMETRIUS
 Yea, art thou there?
-ROBIN, in Lysander's voice
+ROBIN (in Lysander's voice)
 Follow my voice. We'll try no manhood here.
 (They exit)
 
@@ -2003,14 +2004,14 @@ He lies down and sleeps.
 
 (Enter Robin and Demetrius)
 
-ROBIN, in Lysander's voice
+ROBIN (in Lysander's voice)
 Ho, ho, ho! Coward, why com'st thou not?
 DEMETRIUS
 Abide me, if thou dar'st, for well I wot
 Thou runn'st before me, shifting every place,
 And dar'st not stand nor look me in the face.
 Where art thou now?
-ROBIN, in Lysander's voice
+ROBIN (in Lysander's voice)
 Come hither. I am here.
 DEMETRIUS
 Nay, then, thou mock'st me. Thou shalt buy this
@@ -2181,7 +2182,7 @@ He applies the nectar to her eyes.
   Dian's bud o'er Cupid's flower
   Hath such force and blessed power.
 Now, my Titania, wake you, my sweet queen.
-TITANIA, waking
+TITANIA (waking)
 My Oberon, what visions have I seen!
 Methought I was enamored of an ass.
 OBERON
@@ -2196,7 +2197,7 @@ Than common sleep of all these five the sense.
 
 TITANIA
 Music, ho, music such as charmeth sleep!
-ROBIN, removing the ass-head from Bottom
+ROBIN (removing the ass-head from Bottom)
 Now, when thou wak'st, with thine own fool's eyes
 peep.
 OBERON
@@ -2366,7 +2367,8 @@ Why, then, we are awake. Let's follow him,
 And by the way let us recount our dreams.
 (Lovers exit)
 
-BOTTOM, waking up   When my cue comes, call me,
+BOTTOM (waking up)
+When my cue comes, call me,
 and I will answer. My next is "Most fair Pyramus."
 Hey-ho! Peter Quince! Flute the bellows-mender!
 Snout the tinker! Starveling! God's my life! Stolen
@@ -2521,13 +2523,13 @@ Where is our usual manager of mirth?
 What revels are in hand? Is there no play
 To ease the anguish of a torturing hour?
 Call Philostrate.
-PHILOSTRATE, coming forward
+PHILOSTRATE (coming forward)
 Here, mighty Theseus.
 THESEUS
 Say what abridgment have you for this evening,
 What masque, what music? How shall we beguile
 The lazy time if not with some delight?
-PHILOSTRATE, giving Theseus a paper
+PHILOSTRATE (giving Theseus a paper)
 There is a brief how many sports are ripe.
 Make choice of which your Highness will see first.
 THESEUS
@@ -2650,7 +2652,7 @@ impaired, but all disordered. Who is next?
 Wall (Snout), and Moonshine (Starveling), and Lion
 (Snug), and Prologue (Quince))
 
-QUINCE, as Prologue
+QUINCE (as Prologue)
 Gentles, perchance you wonder at this show.
    But wonder on, till truth make all things plain.
 This man is Pyramus, if you would know.
@@ -2686,7 +2688,7 @@ many asses do.
 
 (Lion, Thisbe, Moonshine, and Prologue exit)
 
-SNOUT, as Wall
+SNOUT (as Wall)
 In this same interlude it doth befall
 That I, one Snout by name, present a wall;
 And such a wall as I would have you think
@@ -2705,7 +2707,7 @@ It is the wittiest partition that ever I heard
 discourse, my lord.
 HIPPOLYTA
 Pyramus draws near the wall. Silence.
-BOTTOM, as Pyramus
+BOTTOM (as Pyramus)
 O grim-looked night! O night with hue so black!
    O night, which ever art when day is not!
 O night! O night! Alack, alack, alack!
@@ -2732,38 +2734,38 @@ pat as I told you. Yonder she comes.
 
 (Enter Thisbe (Flute))
 
-FLUTE, as Thisbe
+FLUTE (as Thisbe)
 O wall, full often hast thou heard my moans
    For parting my fair Pyramus and me.
 My cherry lips have often kissed thy stones,
    Thy stones with lime and hair knit up in thee.
-BOTTOM, as Pyramus
+BOTTOM (as Pyramus)
 I see a voice! Now will I to the chink
    To spy an I can hear my Thisbe's face.
 Thisbe?
-FLUTE, as Thisbe
+FLUTE (as Thisbe)
 My love! Thou art my love, I think.
-BOTTOM, as Pyramus
+BOTTOM (as Pyramus)
    Think what thou wilt, I am thy lover's grace,
 And, like Limander, am I trusty still.
-FLUTE, as Thisbe
+FLUTE (as Thisbe)
 And I like Helen, till the Fates me kill.
-BOTTOM, as Pyramus
+BOTTOM (as Pyramus)
 Not Shafalus to Procrus was so true.
-FLUTE, as Thisbe
+FLUTE (as Thisbe)
 As Shafalus to Procrus, I to you.
-BOTTOM, as Pyramus
+BOTTOM (as Pyramus)
 O kiss me through the hole of this vile wall.
-FLUTE, as Thisbe
+FLUTE (as Thisbe)
 I kiss the wall's hole, not your lips at all.
-BOTTOM, as Pyramus
+BOTTOM (as Pyramus)
 Wilt thou at Ninny's tomb meet me straightway?
-FLUTE, as Thisbe
+FLUTE (as Thisbe)
 'Tide life, 'tide death, I come without delay.
 
 (Bottom and Flute exit)
 
-SNOUT, as Wall
+SNOUT (as Wall)
 Thus have I, Wall, my part discharged so,
 And, being done, thus Wall away doth go.
 
@@ -2791,7 +2793,7 @@ come two noble beasts in, a man and a lion.
 
 (Enter Lion (Snug) and Moonshine (Starveling))
 
-SNUG, as Lion
+SNUG (as Lion)
 You ladies, you whose gentle hearts do fear
    The smallest monstrous mouse that creeps on
    floor,
@@ -2819,7 +2821,7 @@ His discretion, I am sure, cannot carry his
 valor, for the goose carries not the fox. It is well.
 Leave it to his discretion, and Let us listen to the
 Moon.
-STARVELING, as Moonshine
+STARVELING (as Moonshine)
 This lanthorn doth the horned moon present.
 HIPPOLYTA
 He should have worn the horns on his
@@ -2827,7 +2829,7 @@ head.
 THESEUS
 He is no crescent, and his horns are invisible
 within the circumference.
-STARVELING, as Moonshine
+STARVELING (as Moonshine)
 This lanthorn doth the horned moon present.
 Myself the man i' th' moon do seem to be.
 THESEUS
@@ -2846,7 +2848,8 @@ he is in the wane; but yet, in courtesy, in all reason,
 we must stay the time.
 DEMETRIUS
 Proceed, Moon.
-STARVELING, as Moonshine   All that I have to say is to tell
+STARVELING (as Moonshine)
+All that I have to say is to tell
 you that the lanthorn is the moon, I the man i' th'
 moon, this thornbush my thornbush, and this dog
 my dog.
@@ -2857,11 +2860,12 @@ comes Thisbe.
 
 (Enter Thisbe (Flute))
 
-FLUTE, as Thisbe
+FLUTE (as Thisbe)
 This is old Ninny's tomb. Where is my love?
-SNUG, as Lion  O!
-The Lion roars. Thisbe runs off,
-dropping her mantle.
+SNUG (as Lion)
+O!
+(The Lion roars. Thisbe runs off,
+dropping her mantle.)
 PHILOSTRATE
 Well roared, Lion.
 THESEUS
@@ -2881,7 +2885,7 @@ And then came Pyramus.
 
 HIPPOLYTA
 And so the lion vanished.
-BOTTOM, as Pyramus
+BOTTOM (as Pyramus)
 Sweet Moon, I thank thee for thy sunny beams.
    I thank thee, Moon, for shining now so bright,
 For by thy gracious, golden, glittering gleams,
@@ -2903,7 +2907,7 @@ This passion, and the death of a dear friend,
 would go near to make a man look sad.
 HIPPOLYTA
 Beshrew my heart but I pity the man.
-BOTTOM, as Pyramus
+BOTTOM (as Pyramus)
 O, wherefore, Nature, didst thou lions frame,
    Since lion vile hath here deflowered my dear,
 Which is-no, no-which was the fairest dame
@@ -2953,7 +2957,7 @@ She hath spied him already with those
 sweet eyes.
 DEMETRIUS
 And thus she means, videlicet-
-FLUTE, as Thisbe
+FLUTE (as Thisbe)
         Asleep, my love?
         What, dead, my dove?
      O Pyramus, arise!
