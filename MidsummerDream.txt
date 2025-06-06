@@ -30,6 +30,7 @@ Fairies attending upon Titania:
 
 ACT ONE
 Scene One
+
 (Enter Theseus, Hippolyta, and Philostrate)
 
 THESEUS
@@ -53,11 +54,14 @@ Stir up the Athenian youth to merriments.
 Awake the pert and nimble spirit of mirth.
 Turn melancholy forth to funerals;
 The pale companion is not for our pomp.
+
 (Philostrate exits)
+
 Hippolyta, I wooed thee with my sword
 And won thy love doing thee injuries,
 But I will wed thee in another key,
 With pomp, with triumph, and with reveling.
+
 (Enter Egeus and his daughter Hermia, and Lysander and Demetrius)
 
 EGEUS
@@ -204,6 +208,7 @@ Of something nearly that concerns yourselves.
 
 EGEUS
 With duty and desire we follow you.
+
 (All but Hermia and Lysander exit)
 
 LYSANDER
@@ -284,6 +289,7 @@ Tomorrow truly will I meet with thee.
 
 LYSANDER
 Keep promise, love. Look, here comes Helena.
+
 (Enter Helena)
 
 HERMIA
@@ -358,9 +364,12 @@ From lovers' food till morrow deep midnight.
 
 LYSANDER
 I will, my Hermia.
+
 (Hermia exits)
+
 Helena, adieu.
 As you on him, Demetrius dote on you!
+
 (Lysander exits)
 
 HELENA
@@ -390,9 +399,11 @@ Pursue her. And, for this intelligence
 If I have thanks, it is a dear expense.
 But herein mean I to enrich my pain,
 To have his sight thither and back again.
+
 (She exits)
 
 Scene Two
+
 (Enter Quince the carpenter, and Snug the joiner, and
 Bottom the weaver, and Flute the bellows-mender, and
 Snout the tinker, and Starveling the tailor)
@@ -581,11 +592,14 @@ At the Duke's Oak we meet.
 
 BOTTOM
 Enough. Hold or cut bowstrings.
+
 (They exit)
+
 Play Mendelssohn's "Scherzo" between acts.
 
 ACT TWO
 Scene One
+
 (Enter Peaseblossom at one door and Robin Goodfellow at another)
 
 ROBIN
@@ -775,6 +789,7 @@ Give me that boy and I will go with thee.
 TITANIA
 Not for thy fairy kingdom. Fairies, away.
 We shall chide downright if I longer stay.
+
 (Titania and her fairies exit)
 
 OBERON
@@ -816,6 +831,7 @@ Ere the leviathan can swim a league.
 ROBIN
 I'll put a girdle round about the Earth
 In forty minutes.
+
 (He exits)
 
 OBERON
@@ -831,6 +847,7 @@ And ere I take this charm from off her sight
 I'll make her render up her page to me.
 But who comes here? I am invisible,
 And I will overhear their conference.
+
 (Enter Demetrius, Helena following him)
 
 DEMETRIUS
@@ -911,15 +928,20 @@ You do me mischief. Fie, Demetrius!
 Your wrongs do set a scandal on my sex.
 We cannot fight for love as men may do.
 We should be wooed and were not made to woo.
+
 (Demetrius exits)
+
 I'll follow thee and make a heaven of hell
 To die upon the hand I love so well.
+
 (Helena exits)
 
 OBERON
 Fare thee well, nymph. Ere he do leave this grove,
 Thou shalt fly him, and he shall seek thy love.
+
 (Enter Robin)
+
 Hast thou the flower there? Welcome, wanderer.
 
 ROBIN
@@ -951,9 +973,11 @@ And look thou meet me ere the first cock crow.
 
 ROBIN
 Fear not, my lord. Your servant shall do so.
+
 (They exit)
 
 Scene Two
+
 (Enter Titania, Queen of Fairies, with her train)
 
 TITANIA
@@ -976,10 +1000,10 @@ Titania sleeps.
 MUSTARDSEED
 Hence, away! Now all is well.
 One aloof stand sentinel.
-(Mustardseed exits)
-    Peaseblossom falls asleep.
-(Enter Oberon, who anoints Titania's eyelids with the
-nectar)
+
+(Mustardseed exits. Peaseblossom falls asleep)
+
+(Enter Oberon, who anoints Titania's eyelids with the nectar)
 
 OBERON
   What thou seest when thou dost wake
@@ -990,7 +1014,9 @@ OBERON
   In thy eye that shall appear
   When thou wak'st, it is thy dear.
 Wake when some vile thing is near.
+
 (He exits)
+
 (Enter Lysander and Hermia)
 
 LYSANDER
@@ -1040,6 +1066,7 @@ Here is my bed. Sleep give thee all his rest!
 HERMIA
 With half that wish the wisher's eyes be pressed!
 They sleep.
+
 (Enter Robin)
 
 ROBIN
@@ -1064,7 +1091,9 @@ with the nectar.
   Sleep his seat on thy eyelid.
   So, awake when I am gone,
 For I must now to Oberon.
+
 (He exits)
+
 (Enter Demetrius and Helena, running)
 
 HELENA
@@ -1078,6 +1107,7 @@ O, wilt thou darkling leave me? Do not so.
 
 DEMETRIUS
 Stay, on thy peril. I alone will go.
+
 (Demetrius exits)
 
 HELENA
@@ -1137,6 +1167,7 @@ But fare you well. Perforce I must confess
 I thought you lord of more true gentleness.
 O, that a lady of one man refused
 Should of another therefore be abused!
+
 (She exits)
 
 LYSANDER
@@ -1150,6 +1181,7 @@ So thou, my surfeit and my heresy,
 Of all be hated, but the most of me!
 And, all my powers, address your love and might
 To honor Helen and to be her knight.
+
 (He exits)
 
 HERMIA (waking up)
@@ -1165,11 +1197,14 @@ Alack, where are you? Speak, an if you hear.
 Speak, of all loves! I swoon almost with fear.-
 No? Then I well perceive you are not nigh.
 Either death or you I'll find immediately.
+
 (She exits)
+
 Play Mendelssohn's "Intermezzo" between acts.
 
 ACT THREE
 Scene One
+
 (With Titania still asleep onstage, enter the Clowns,
 Bottom, Quince, Snout, Starveling, Snug, and Flute.)
 
@@ -1296,6 +1331,7 @@ every mother's son, and rehearse your parts. Pyramus,
 you begin. When you have spoken your
 speech, enter into that brake, and so everyone
 according to his cue.
+
 (Enter Robin invisible to those onstage)
 
 ROBIN (aside)
@@ -1318,10 +1354,12 @@ BOTTOM (as Pyramus)
   So hath thy breath, my dearest Thisbe dear.-
   But hark, a voice! Stay thou but here awhile,
 And by and by I will to thee appear.
+
 (He exits)
 
 ROBIN (aside)
 A stranger Pyramus than e'er played here.
+
 (He exits)
 
 FLUTE
@@ -1349,6 +1387,7 @@ FLUTE
 O!
 As Thisbe. As true as truest horse, that yet would never
 tire.
+
 (Enter Robin, and Bottom as Pyramus with the
 ass-head)
 
@@ -1358,6 +1397,7 @@ BOTTOM (as Pyramus)
 QUINCE
 O monstrous! O strange! We are haunted. Pray,
 masters, fly, masters! Help!
+
 (Quince, Flute, Snout, Snug, and Starveling exit)
 
 ROBIN
@@ -1368,11 +1408,13 @@ Sometime a horse I'll be, sometime a hound,
    A hog, a headless bear, sometime a fire,
 And neigh and bark and grunt and roar and burn,
 Like horse, hound, hog, bear, fire, at every turn.
+
 (He exits)
 
 BOTTOM
 Why do they run away? This is a knavery of
 them to make me afeard.
+
 (Enter Snout)
 
 SNOUT
@@ -1382,12 +1424,15 @@ thee?
 BOTTOM
 What do you see? You see an ass-head of your
 own, do you?
+
 (Snout exits)
+
 (Enter Quince)
 
 QUINCE
 Bless thee, Bottom, bless thee! Thou art
 translated!
+
 (He exits)
 
 BOTTOM
@@ -1448,6 +1493,7 @@ And sing while thou on pressed flowers dost sleep.
 And I will purge thy mortal grossness so
 That thou shalt like an airy spirit go.-
 Peaseblossom, Cobweb, Mote, and Mustardseed!
+
 (Enter Peaseblossom and Mustardseed)
 
 PEASEBLOSSOM
@@ -1529,16 +1575,20 @@ Come, wait upon him. Lead him to my bower.
 And when she weeps, weeps every little flower,
    Lamenting some enforced chastity.
 Tie up my lover's tongue. Bring him silently.
+
 (They exit)
 
 Scene Two
+
 (Enter Oberon, King of Fairies)
 
 OBERON
 I wonder if Titania be awaked;
 Then what it was that next came in her eye,
 Which she must dote on in extremity.
+
 (Enter Robin Goodfellow)
+
 Here comes my messenger. How now, mad spirit?
 What night-rule now about this haunted grove?
 
@@ -1584,6 +1634,7 @@ ROBIN
 I took him sleeping-that is finished, too-
 And the Athenian woman by his side,
 That, when he waked, of force she must be eyed.
+
 (Enter Demetrius and Hermia)
 
 OBERON
@@ -1651,6 +1702,7 @@ HERMIA
 A privilege never to see me more.
 And from thy hated presence part I so.
 See me no more, whether he be dead or no.
+
 (She exits)
 
 DEMETRIUS
@@ -1683,6 +1735,7 @@ I'll charm his eyes against she do appear.
 ROBIN
 I go, I go, look how I go,
 Swifter than arrow from the Tartar's bow.
+
 (He exits)
 
 OBERON (applying the nectar to Demetrius' eyes)
@@ -1694,6 +1747,7 @@ OBERON (applying the nectar to Demetrius' eyes)
   As the Venus of the sky.-
   When thou wak'st, if she be by,
   Beg of her for remedy.
+
 (Enter Robin)
 
 ROBIN
@@ -1714,6 +1768,7 @@ ROBIN
   And those things do best please me
   That befall prepost'rously.
 They step aside.
+
 (Enter Lysander and Helena)
 
 LYSANDER
@@ -1796,6 +1851,7 @@ DEMETRIUS
 Disparage not the faith thou dost not know,
 Lest to thy peril thou aby it dear.
 Look where thy love comes. Yonder is thy dear.
+
 (Enter Hermia)
 
 HERMIA (to Lysander)
@@ -2075,6 +2131,7 @@ Of thine or mine, is most in Helena.
 
 DEMETRIUS
 "Follow"? Nay, I'll go with thee, cheek by jowl.
+
 (Demetrius and Lysander exit)
 
 HERMIA
@@ -2087,10 +2144,12 @@ I will not trust you, I,
 Nor longer stay in your curst company.
 Your hands than mine are quicker for a fray.
 My legs are longer though, to run away.
+
 (She exits)
 
 HERMIA
 I am amazed and know not what to say.
+
 (She exits)
 
 OBERON (to Robin)
@@ -2155,6 +2214,7 @@ Opening on Neptune with fair blessed beams,
 Turns into yellow gold his salt-green streams.
 But notwithstanding, haste! Make no delay.
 We may effect this business yet ere day.
+
 (He exits)
 
 ROBIN
@@ -2163,6 +2223,7 @@ ROBIN
   I am feared in field and town.
   Goblin, lead them up and down.
 Here comes one.
+
 (Enter Lysander)
 
 LYSANDER
@@ -2177,7 +2238,9 @@ I will be with thee straight.
 ROBIN (in Demetrius' voice)
 Follow me, then, to
 plainer ground.
+
 (Lysander exits)
+
 (Enter Demetrius)
 
 DEMETRIUS
@@ -2199,7 +2262,9 @@ Yea, art thou there?
 
 ROBIN (in Lysander's voice)
 Follow my voice. We'll try no manhood here.
+
 (They exit)
+
 (Enter Lysander)
 
 LYSANDER
@@ -2212,6 +2277,7 @@ And here will rest me. Come, thou gentle day,
 For if but once thou show me thy gray light,
 I'll find Demetrius and revenge this spite.
 He lies down and sleeps.
+
 (Enter Robin and Demetrius)
 
 ROBIN (in Lysander's voice)
@@ -2234,6 +2300,7 @@ Now go thy way. Faintness constraineth me
 To measure out my length on this cold bed.
 By day's approach look to be visited.
 He lies down and sleeps.
+
 (Enter Helena)
 
 HELENA
@@ -2251,6 +2318,7 @@ ROBIN
   Here she comes, curst and sad.
   Cupid is a knavish lad
   Thus to make poor females mad.
+
 (Enter Hermia)
 
 HERMIA
@@ -2282,13 +2350,16 @@ Robin applies the nectar
      Naught shall go ill;
   They shall have their pair mare again, and all shall be
 well.
+
 (He exits)
+
 15-MIN INTERMISSION
 Play Mendelssohn's "Nocturne", then lead into intermission
 music.
 
 ACT FOUR
 Scene One
+
 (With the four lovers still asleep onstage, enter
 Titania, Queen of Fairies, and Bottom and Fairies,
 and Oberon, the King, behind them unseen by those
@@ -2368,12 +2439,15 @@ me; I have an exposition of sleep come upon me.
 TITANIA
 Sleep thou, and I will wind thee in my arms.-
 Fairies, begone, and be all ways away.
+
 (Fairies exit)
+
 So doth the woodbine the sweet honeysuckle
 Gently entwist; the female ivy so
 Enrings the barky fingers of the elm.
 O, how I love thee! How I dote on thee!
 Bottom and Titania sleep.
+
 (Enter Robin Goodfellow)
 
 OBERON
@@ -2459,7 +2533,9 @@ TITANIA
   Tell me how it came this night
   That I sleeping here was found
   With these mortals on the ground.
+
 (Oberon, Robin, and Titania exit)
+
 Wind horn. Enter Theseus,
 Hippolyta, and Egeus.
 
@@ -2470,7 +2546,9 @@ And, since we have the vaward of the day,
 My love shall hear the music of my hounds.
 Uncouple in the western valley; let them go.
 Dispatch, I say, and find the Forester.
+
 (A Servant exits)
+
 We will, fair queen, up to the mountain's top
 And mark the musical confusion
 Of hounds and echo in conjunction.
@@ -2486,7 +2564,7 @@ So musical a discord, such sweet thunder.
 
 THESEUS
 My hounds are bred out of the Spartan kind;
-So flewed, so sanded; and their heads are hung
+so flewed, so sanded; and their heads are hung
 With ears that sweep away the morning dew;
 crook-kneed, and dewlapped like Thessalian bulls;
 Slow in pursuit, but matched in mouth like bells,
@@ -2514,7 +2592,9 @@ It is, my lord.
 
 THESEUS
 Go, bid the huntsmen wake them.  with their horns.
+
 (A Servant exits)
+
 Shout within. Wind horns. They all start up.
 
 THESEUS
@@ -2582,6 +2662,7 @@ Our purposed hunting shall be set aside.
 Away with us to Athens. Three and three,
 We'll hold a feast in great solemnity.
 Come, Hippolyta.
+
 (Theseus and his train,
 including Hippolyta and Egeus, exit)
 
@@ -2616,6 +2697,7 @@ And he did bid us follow to the temple.
 DEMETRIUS
 Why, then, we are awake. Let's follow him,
 And by the way let us recount our dreams.
+
 (Lovers exit)
 
 BOTTOM (waking up)
@@ -2639,9 +2721,11 @@ it hath no bottom; and I will sing it in the
 latter end of the a play, before the Duke. Peradventure,
 to make it the more gracious, I shall sing it at her
 death.
+
 (He exits)
 
 Scene Two
+
 (Enter Quince, Flute, Snout, and Starveling)
 
 QUINCE
@@ -2671,6 +2755,7 @@ paramour for a sweet voice.
 FLUTE
 You must say "paragon." A "paramour" is (God
 bless us) a thing of naught.
+
 (Enter Snug the joiner)
 
 SNUG
@@ -2686,6 +2771,7 @@ a day during his life. He could not have
 him sixpence a day for playing Pyramus, I'll be
 hanged. He would have deserved it. Sixpence a day
 in Pyramus, or nothing!
+
 (Enter Bottom)
 
 BOTTOM
@@ -2718,11 +2804,14 @@ And, most dear actors, eat no onions nor garlic, for
 we are to utter sweet breath, and I do not doubt but
 to hear them say it is a sweet comedy. No more
 words. Away! Go, away!
+
 (They exit)
+
 Play Mendelssohn's "Wedding March" between acts.
 
 ACT FIVE
 Scene One
+
 (Enter Theseus, Hippolyta, and Philostrate)
 
 HIPPOLYTA
@@ -2758,6 +2847,7 @@ And all their minds transfigured so together,
 More witnesseth than fancy's images
 And grows to something of great constancy,
 But, howsoever, strange and admirable.
+
 (Enter Demetrius and Helena)
 
 THESEUS
@@ -2847,6 +2937,7 @@ I will hear that play,
 For never anything can be amiss
 When simpleness and duty tender it.
 Go, bring them in-and take your places. ladies.
+
 (Philostrate exits)
 
 HIPPOLYTA
@@ -2877,6 +2968,7 @@ I read as much as from the rattling tongue
 Of saucy and audacious eloquence.
 Love, therefore, and tongue-tied simplicity
 In least speak most, to my capacity.
+
 (Enter Philostrate)
 
 PHILOSTRATE
@@ -2884,6 +2976,7 @@ So please your Grace, the Prologue is addressed.
 
 THESEUS
 Let him approach.
+
 (Enter the Prologue)
 
 PROLOGUE
@@ -2898,6 +2991,7 @@ Our true intent is. All for your delight
    you,
 The actors are at hand, and, by their show,
 You shall know all that you are like to know.
+
 (Prologue exits)
 
 THESEUS
@@ -2916,7 +3010,9 @@ government.
 THESEUS
 His speech was like a tangled chain-nothing
 impaired, but all disordered. Who is next?
-(Enter Pyramus (Bottom), and Thisbe (Flute), and
+
+(Enter Pyramus (Bottom), and Thisbe (Flute)
+, and
 Wall (Snout), and Moonshine (Starveling), and Lion
 (Snug), and Prologue (Quince))
 
@@ -2955,6 +3051,7 @@ I wonder if the lion be to speak.
 PHILOSTRATE
 No wonder, my lord. One lion may when
 many asses do.
+
 (Lion, Thisbe, Moonshine, and Prologue exit)
 
 SNOUT (as Wall)
@@ -3006,6 +3103,7 @@ No, in truth, sir, he should not. "Deceiving
 me" is Thisbe's cue. She is to enter now, and I am
 to spy her through the wall. You shall see it will fall
 pat as I told you. Yonder she comes.
+
 (Enter Thisbe (Flute))
 
 FLUTE (as Thisbe)
@@ -3046,11 +3144,13 @@ Wilt thou at Ninny's tomb meet me straightway?
 
 FLUTE (as Thisbe)
 'Tide life, 'tide death, I come without delay.
+
 (Bottom and Flute exit)
 
 SNOUT (as Wall)
 Thus have I, Wall, my part discharged so,
 And, being done, thus Wall away doth go.
+
 (He exits)
 
 THESEUS
@@ -3077,6 +3177,7 @@ THESEUS
 If we imagine no worse of them than they of
 themselves, they may pass for excellent men. Here
 come two noble beasts in, a man and a lion.
+
 (Enter Lion (Snug) and Moonshine (Starveling))
 
 SNUG (as Lion)
@@ -3160,6 +3261,7 @@ DEMETRIUS
 Why, all these should be in the lanthorn,
 for all these are in the moon. But silence. Here
 comes Thisbe.
+
 (Enter Thisbe (Flute))
 
 FLUTE (as Thisbe)
@@ -3183,10 +3285,12 @@ Lion worries the mantle.
 
 THESEUS
 Well moused, Lion.
+
 (Enter Pyramus (Bottom))
 
 PHILOSTRATE
 And then came Pyramus.
+
 (Lion exits)
 
 HIPPOLYTA
@@ -3234,7 +3338,9 @@ Which is-no, no-which was the fairest dame
    My soul is in the sky.
       Tongue, lose thy light!
       Moon, take thy flight!
+
 (Moonshine exits)
+
    Now die, die, die, die, die.  Pyramus falls.
 
 DEMETRIUS
@@ -3255,7 +3361,9 @@ Thisbe comes back and finds her lover?
 
 THESEUS
 She will find him by starlight.
+
 (Enter Thisbe (Flute))
+
 Here she comes, and her passion ends the play.
 
 HIPPOLYTA
@@ -3302,8 +3410,7 @@ Thisbe stabs herself.
  Adieu, adieu, adieu.  Thisbe falls.
 
 THESEUS
-Moonshine and Lion are left to bury the
-dead.
+Moonshine and Lion are left to bury the dead.
 
 PHILOSTRATE
 Ay, and Wall too.
@@ -3321,6 +3428,7 @@ no excuse. Never excuse. For when the players are
 all dead, there need none to be blamed. But, come, your
 Bergomask. Let your epilogue alone.
 Play Mendelssohn's "Dance of the Clowns" for the Bergomask.
+
 (Dance, and the players exit)
 
 THESEUS
@@ -3332,7 +3440,9 @@ This palpable-gross play hath well beguiled
 The heavy gait of night. Sweet friends, to bed.
 A fortnight hold we this solemnity
 In nightly revels and new jollity.
+
 (They exit)
+
 (Enter Robin Goodfellow)
 
 ROBIN
@@ -3356,6 +3466,7 @@ ROBIN
   Shall disturb this hallowed house.
   I am sent with broom before,
   To sweep the dust behind the door.
+
 (Enter Oberon and Titania, King and Queen of Fairies,
 with all their train)
 
@@ -3400,6 +3511,7 @@ OBERON
   Ever shall in safety rest.
   Trip away. Make no stay.
   Meet me all by break of day.
+
 (All but Robin exit)
 
 ROBIN
@@ -3419,6 +3531,7 @@ ROBIN
   So good night unto you all.
   Give me your hands, if we be friends,
   And Robin shall restore amends.
+
 (He exits)
 
 END OF PLAY
