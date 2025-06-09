@@ -1506,16 +1506,10 @@ An ass's noll I fixed on his head.
 Anon his Thisbe must be answered,
 And forth my mimic comes. When they him spy,
 As wild geese that the creeping fowler eye,
-Or russet-pated choughs, many in sort,
-Rising and cawing at the gun's report,
 Sever themselves and madly sweep the sky,
 So at his sight away his fellows fly,
 And, at our stamp, here o'er and o'er one falls.
 He "Murder" cries and help from Athens calls.
-Their sense thus weak, lost with their fears thus strong,
-Made senseless things begin to do them wrong;
-For briers and thorns at their apparel snatch,
-Some sleeves, some hats, from yielders all things catch.
 I led them on in this distracted fear
 And left sweet Pyramus translated there.
 When in that moment, so it came to pass,
@@ -1553,10 +1547,7 @@ Being o'er shoes in blood, plunge in the deep
 And kill me too.
 The sun was not so true unto the day
 As he to me. Would he have stolen away
-From sleeping Hermia? I'll believe as soon
-This whole Earth may be bored, and that the moon
-May through the center creep and so displease
-Her brother's noontide with th' Antipodes.
+From sleeping Hermia?
 It cannot be but thou hast murdered him.
 So should a murderer look, so dead, so grim.
 
@@ -1876,7 +1867,7 @@ Lysander, whereto tends all this?
         (She takes hold of Lysander)
 
 LYSANDER
-Away! you Ethiop!
+Away!
 
         (to Hermia)
 DEMETRIUS
@@ -2092,26 +2083,8 @@ I'll to my queen and beg her Indian boy;
 And then I will her charmed eye release
 From monster's view, and all things shall be peace.
 
-ROBIN
-My fairy lord, this must be done with haste,
-For night's swift dragons cut the clouds full fast,
-And yonder shines Aurora's harbinger,
-At whose approach, ghosts wand'ring here and there
-Troop home to churchyards. Damned spirits all,
-That in crossways and floods have burial,
-Already to their wormy beds are gone.
-For fear lest day should look their shames upon,
-They willfully themselves exile from light
-And must for aye consort with black-browed night.
-
 OBERON
-But we are spirits of another sort.
-I with the Morning's love have oft made sport
-And, like a forester, the groves may tread
-Even till the eastern gate, all fiery red,
-Opening on Neptune with fair blessed beams,
-Turns into yellow gold his salt-green streams.
-But notwithstanding, haste! Make no delay.
+Make no delay.
 We may effect this business yet ere day.
 
         (He exits)
@@ -2290,10 +2263,8 @@ Monsieur Cobweb, good monsieur, get you
 your weapons in your hand and kill me a red-hipped
 humble-bee on the top of a thistle, and, good
 monsieur, bring me the honey-bag. Do not fret
-yourself too much in the action, monsieur. and,
-good monsieur, have a care the honey-bag break
-not; I would be loath to have you overflown with a
-honey-bag, signior. Where's Monsieur Mustardseed?
+yourself too much in the action, monsieur.
+Where's Monsieur Mustardseed?
 
 MUSTARDSEED
 Ready.
@@ -2394,23 +2365,12 @@ TITANIA
 How came these things to pass?
 O, how mine eyes do loathe his visage now!
 
-OBERON
-Silence awhile.-Robin, take off this head.-
-Titania, music call; and strike more dead
-Than common sleep of all these five the sense.
-
-TITANIA
-Music, ho, music such as charmeth sleep!
-
-        (removing the ass-head from Bottom)
+        (Removing the ass-head from Bottom)
 ROBIN
 Now, when thou wak'st, with thine own fool's eyes peep.
 
 OBERON
-        (Music)
 Come, my queen, take hands with me.
-And rock the ground whereon these sleepers be.
-Titania and Oberon dance.
 Now thou and I are new in amity,
 And will tomorrow midnight solemnly
 Dance in Duke Theseus' house triumphantly,
@@ -2439,13 +2399,8 @@ With these mortals on the ground.
         (Wind horn. Enter Theseus, Hippolyta, and Egeus.)
 
 THESEUS
-Go, one of you, find out the Forester.
-For Now our observation is performed,
+Now our observation is performed,
 And, since we have the vaward of the day,
-My love shall hear the music of my hounds.
-Uncouple in the western valley; let them go.
-Dispatch, I say, and find the Forester.
-        (A Servant exits)
 We will, fair queen, up to the mountain's top
 And mark the musical confusion
 Of hounds and echo in conjunction.
@@ -2461,9 +2416,6 @@ So musical a discord, such sweet thunder.
 
 THESEUS
 My hounds are bred out of the Spartan kind;
-so flewed, so sanded; and their heads are hung
-With ears that sweep away the morning dew;
-crook-kneed, and dewlapped like Thessalian bulls;
 Slow in pursuit, but matched in mouth like bells,
 Each under each. A cry more tunable
 Was never holloed to, nor cheered with horn,
@@ -2488,9 +2440,8 @@ EGEUS
 It is, my lord.
 
 THESEUS
-Go, bid the huntsmen wake them.  with their horns.
-        (A Servant exits)
-        (Shout within. Wind horns. They all start up.)
+Go, wake them.
+        (They all start up.)
 
 THESEUS
 Good morrow, friends. Saint Valentine is past.
@@ -2726,10 +2677,6 @@ The forms of things unknown, the poet's pen
 Turns them to shapes and gives to airy nothing
 A local habitation and a name.
 Such tricks hath strong imagination
-That, if it would but apprehend some joy,
-It comprehends some bringer of that joy.
-Or in the night, imagining some fear,
-How easy is a bush supposed a bear!
 
 HIPPOLYTA
 But all the story of the night told over,
@@ -2737,8 +2684,6 @@ And all their minds transfigured so together,
 More witnesseth than fancy's images
 And grows to something of great constancy,
 But, howsoever, strange and admirable.
-
-        (Enter Demetrius and Helena)
 
 THESEUS
 Here come the lovers full of joy and mirth.-
