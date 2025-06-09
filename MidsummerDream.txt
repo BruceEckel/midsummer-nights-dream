@@ -2676,7 +2676,6 @@ And as imagination bodies forth
 The forms of things unknown, the poet's pen
 Turns them to shapes and gives to airy nothing
 A local habitation and a name.
-Such tricks hath strong imagination
 
 HIPPOLYTA
 But all the story of the night told over,
@@ -2684,15 +2683,6 @@ And all their minds transfigured so together,
 More witnesseth than fancy's images
 And grows to something of great constancy,
 But, howsoever, strange and admirable.
-
-THESEUS
-Here come the lovers full of joy and mirth.-
-Joy, gentle friends! Joy and fresh days of love
-Accompany your hearts!
-
-DEMETRIUS
-More than to us
-Wait in your royal walks, your board, your bed!
 
 THESEUS
 Come now, what masques, what dances shall we have
@@ -2786,19 +2776,6 @@ The kinder we, to give them thanks for nothing.
 Our sport shall be to take what they mistake;
 And what poor duty cannot do, noble respect
 Takes it in might, not merit.
-Where I have come, great clerks have purposed
-To greet me with premeditated welcomes,
-Where I have seen them shiver and look pale,
-Make periods in the midst of sentences,
-Throttle their practiced accent in their fears,
-And in conclusion dumbly have broke off,
-Not paying me a welcome. Trust me, sweet,
-Out of this silence yet I picked a welcome,
-And in the modesty of fearful duty,
-I read as much as from the rattling tongue
-Of saucy and audacious eloquence.
-Love, therefore, and tongue-tied simplicity
-In least speak most, to my capacity.
 
         (Enter Philostrate)
 
@@ -2826,11 +2803,8 @@ You shall know all that you are like to know.
 
 THESEUS
 This fellow doth not stand upon points.
-
-DEMETRIUS
 He hath rid his prologue like a rough colt;
-he knows not the stop. A good moral, my lord: it is
-not enough to speak, but to speak true.
+he knows not the stop.
 
 HIPPOLYTA
 Indeed he hath played on this prologue like
@@ -3029,24 +3003,7 @@ Into this place, 'twere pity on my life.
 
 THESEUS
 A very gentle beast, and of a good conscience.
-
-DEMETRIUS
-The very best at a beast, my lord, that e'er I saw.
-
-HELENA
-This lion is a very fox for his valor.
-
-DEMETRIUS
-True, and a goose for his discretion.
-
-HELENA
-Not so, my love lord, for his valor cannot carry
-his discretion, and the fox carries the goose.
-
-THESEUS
-His discretion, I am sure, cannot carry his
-valor, for the goose carries not the fox. It is well.
-Leave it to his discretion, and Let us listen to the Moon.
+Let us listen to the Moon.
 
         (as Moonshine)
 STARVELING
@@ -3081,8 +3038,6 @@ THESEUS
 It appears by his small light of discretion that
 he is in the wane; but yet, in courtesy, in all reason,
 we must stay the time.
-
-DEMETRIUS
 Proceed, Moon.
 
         (as Moonshine)
@@ -3091,11 +3046,6 @@ All that I have to say is to tell
 you that the lanthorn is the moon, I the man i' th'
 moon, this thornbush my thornbush, and this dog
 my dog.
-
-DEMETRIUS
-Why, all these should be in the lanthorn,
-for all these are in the moon. But silence. Here
-comes Thisbe.
 
         (Enter Thisbe (Flute))
 
@@ -3182,12 +3132,6 @@ Moon, take thy flight!
 Now die, die, die, die, die.
         (Pyramus falls)
 
-DEMETRIUS
-No die, but an ace for him, for he is but one.
-
-LYSANDER
-Less than an ace, man, for he is dead, he is nothing.
-
 THESEUS
 With the help of a surgeon he might yet
 recover and yet prove an ass.
@@ -3212,9 +3156,6 @@ which Thisbe, is the better.
 PHILOSTRATE
 She hath spied him already with those
 sweet eyes.
-
-DEMETRIUS
-And thus she means, videlicet-
 
         (as Thisbe)
 FLUTE
@@ -3269,8 +3210,7 @@ Play Mendelssohn's "Dance of the Clowns" for the Bergomask.
         (Dance, and the players exit)
 
 THESEUS
-The iron tongue of midnight hath told twelve.
-Friends, Lovers, to bed! 'Tis almost fairy time.
+Friends, to bed! 'Tis almost fairy time.
 I fear we shall outsleep the coming morn
 As much as we this night have overwatched.
 This palpable-gross play hath well beguiled
