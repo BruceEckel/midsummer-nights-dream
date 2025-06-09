@@ -51,9 +51,6 @@ And interchanged love tokens with my child.
 Thou hast by moonlight at her window sung
 With feigning voice verses of feigning love
 And stol'n the impression of her fantasy.
-With bracelets of thy hair, rings, gauds, conceits,
-Knacks, trifles, nosegays, sweetmeats-messengers
-Of strong prevailment in unhardened youth.
 With cunning hast thou filched my daughter's heart,
 Turned her obedience (which is due to me)
 To stubborn harshness. -And, my gracious duke,
@@ -63,15 +60,9 @@ I beg the ancient privilege of Athens:
 As she is mine, I may dispose of her,
 Which shall be either to this gentleman
 Or to her death, according to our law.
-Immediately provided in that case.
 
 THESEUS
-What say you, Hermia? Be advised, fair maid.
-To you, your father should be as a god,
-One that composed your beauties, yea, and one
-To whom you are but as a form in wax
-By him imprinted, and within his power
-To leave the figure or disfigure it.
+What say you, Hermia?
 Demetrius is a worthy gentleman.
 
 HERMIA
@@ -104,7 +95,6 @@ Therefore, fair Hermia, question your desires,
 Know of your youth, examine well your blood,
 Whether (if you yield not to your father's choice)
 You can endure the livery of a nun,
-For aye to be in shady cloister mewed,
 To live a barren sister all your life,
 Chanting faint hymns to the cold fruitless moon.
 Thrice-blessed they that master so their blood
@@ -121,8 +111,7 @@ My soul consents not to give sovereignty.
 
 THESEUS
 Take time to pause, and by the next new moon
-(The sealing day betwixt my love and me
-For everlasting bond of fellowship),
+(The sealing day betwixt my love and me),
 Upon that day either prepare to die
 For disobedience to your father's will,
 Or else to wed Demetrius, as he would,
@@ -166,7 +155,6 @@ My mind did lose it.
 For you, fair Hermia, look you arm yourself
 To fit your fancies to your father's will,
 Or else the law of Athens yields you up
-(Which by no means we may extenuate)
 To death or to a vow of single life.-
 Come, my Hippolyta. What cheer, my love?-
 Demetrius and Egeus, go along.
@@ -244,8 +232,6 @@ I swear to thee by Cupid's strongest bow,
 By his best arrow with the golden head,
 By the simplicity of Venus' doves,
 By that which knitteth souls and prospers loves,
-And by that fire which burned the Carthage queen
-When the false Trojan under sail was seen,
 By all the vows that ever men have broke
 (In number more than ever women spoke),
 In that same place thou hast appointed me,
@@ -637,11 +623,7 @@ OBERON
 Tarry, rash wanton. Am not I thy lord?
 
 TITANIA
-Then I must be thy lady. But I know
-When thou hast stolen away from Fairyland
-And in the shape of Corin sat all day
-Playing on pipes of corn and versing love
-To amorous Phillida. Why art thou here,
+Then I must be thy lady. Why art thou here,
 Come from the farthest steep of India,
 But that, forsooth, the bouncing Amazon,
 Your buskined mistress and your warrior love,
@@ -670,9 +652,6 @@ As in revenge have sucked up from the sea
 Contagious fogs, which, falling in the land,
 Hath every pelting river made so proud
 That they have overborne their continents.
-The ox hath therefore stretched his yoke in vain,
-The plowman lost his sweat, and the green corn
-Hath rotted ere his youth attained a beard.
 The fold stands empty in the drowned field,
 And crows are fatted with the murrain flock.
 The nine-men's-morris is filled up with mud,
@@ -684,11 +663,7 @@ Therefore the moon, the governess of floods,
 Pale in her anger, washes all the air,
 That rheumatic diseases do abound.
 And through this distemperature we see
-The seasons alter:  Hoary-headed frosts
-Fall in the fresh lap of the crimson rose.
-And on old Hiems' thin and icy crown
-An odorous chaplet of sweet summer buds
-Is, as in mockery, set. The spring, the summer,
+The seasons alter: The spring, the summer,
 The childing autumn, angry winter, change
 Their wonted liveries, and the mazed world
 By their increase now knows not which is which.
@@ -1439,12 +1414,6 @@ Peaseblossom, and Mustardseed!
 PEASEBLOSSOM
 Ready.
 
-COBWEB
-And I.
-
-MOTE
-And I.
-
 MUSTARDSEED
 And I.
 
@@ -1467,12 +1436,6 @@ Nod to him, elves, and do him courtesies.
 PEASEBLOSSOM
 Hail, mortal!
 
-COBWEB
-Hail!
-
-MOTE
-Hail!
-
 MUSTARDSEED
 Hail!
 
@@ -1485,9 +1448,7 @@ Peaseblossom.
 BOTTOM
 I pray you, commend me to Mistress Squash,
 your mother, and to Master Peascod, your father.
-Good Master Peaseblossom, I shall desire you of
-more acquaintance too.-Your name, I beseech
-you, sir?
+-Your name, I beseech you, sir?
 
 MUSTARDSEED
 Mustardseed.
