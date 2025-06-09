@@ -162,9 +162,7 @@ THESEUS
 I must confess that I have heard so much,
 And with Demetrius thought to have spoke thereof;
 But, being overfull of self-affairs,
-My mind did lose it. -But, Demetrius, come,
-And come, Egeus; you shall go with me.
-I have some private schooling for you both.-
+My mind did lose it.
 For you, fair Hermia, look you arm yourself
 To fit your fancies to your father's will,
 Or else the law of Athens yields you up
@@ -173,8 +171,7 @@ To death or to a vow of single life.-
 Come, my Hippolyta. What cheer, my love?-
 Demetrius and Egeus, go along.
 I must employ you in some business
-Against our nuptial. and confer with you
-Of something nearly that concerns yourselves.
+Against our nuptial.
 
 EGEUS
 With duty and desire we follow you.
@@ -216,9 +213,6 @@ War, death, or sickness did lay siege to it,
 Making it momentary as a sound,
 Swift as a shadow, short as any dream,
 Brief as the lightning in the collied night.
-That, in a spleen, unfolds both heaven and Earth,
-And, ere a man hath power to say "Behold!"
-The jaws of darkness do devour it up.
 So quick bright things come to confusion.
 
 HERMIA
@@ -230,7 +224,7 @@ As due to love as thoughts and dreams and sighs,
 Wishes and tears, poor fancy's followers.
 
 LYSANDER
-A good persuasion. Therefore, Hear me, Hermia:
+Hear me, Hermia:
 I have a widow aunt, a dowager
 Of great revenue, and she hath no child.
 From Athens is her house remote seven leagues,
@@ -452,7 +446,7 @@ QUINCE
 It is the lady that Pyramus must love.
 
 FLUTE
-Nay, faith, let not me play a woman. I have a  beard coming.
+Nay, faith, let not me play a woman. I have a beard coming.
 
 QUINCE
 That's all one. You shall play it in a mask, and
@@ -538,7 +532,7 @@ your perfit yellow.
 QUINCE
 Some of your French crowns have no hair at
 all, and then you will play barefaced. But, masters,
-here are your parts, giving out the parts, and I am
+here are your parts, and I am
 to entreat you, request you, and desire you to con
 them by tomorrow night and meet me in the palace
 wood, a mile without the town, by moonlight. There
@@ -578,10 +572,6 @@ I do wander everywhere,
 Swifter than the moon's sphere.
 And I serve the Fairy Queen,
 To dew her orbs upon the green.
-The cowslips tall her pensioners be;
-In their gold coats spots you see;
-Those be rubies, fairy favors;
-In those freckles live their savors.
 I must go seek some dewdrops here
 And hang a pearl in every cowslip's ear.
 Farewell, thou lob of spirits. I'll be gone.
@@ -608,10 +598,6 @@ Either I mistake your shape and making quite,
 Or else you are that shrewd and knavish sprite
 Called Robin Goodfellow. Are not you he
 That frights the maidens of the villagery?
-Skim milk, and sometimes labor in the quern
-And bootless make the breathless huswife churn,
-And sometime make the drink to bear no barm,
-Mislead night wanderers, laughing at their harm?
 Those that "Hobgoblin" call you and "sweet Puck,"
 You do their work, and they shall have good luck.
 Are not you he?
@@ -774,7 +760,7 @@ Cupid all armed. A certain aim he took
 At a fair vestal throned by the west,
 And loosed his love-shaft smartly from his bow
 As it should pierce a hundred thousand hearts.
-But I did might see young Cupid's fiery shaft
+But I did see young Cupid's fiery shaft
 Quenched in the chaste beams of the wat'ry moon,
 And the imperial vot'ress passed on
 In maiden meditation, fancy-free.
@@ -906,7 +892,7 @@ Ay, there it is.
 
 OBERON
 I pray thee give it me.
-Robin gives him the flower.
+        (Robin gives him the flower)
 I know a bank where the wild thyme blows,
 Where oxlips and the nodding violet grows,
 Quite overcanopied with luscious woodbine,
@@ -918,7 +904,7 @@ Weed wide enough to wrap a fairy in.
 And with the juice of this I'll streak her eyes
 And make her full of hateful fantasies.
 Take thou some of it, and seek through this grove.
-He gives Robin part of the flower.
+        (He gives Robin part of the flower)
 A sweet Athenian lady is in love
 With a disdainful youth. Anoint his eyes,
 But do it when the next thing he espies
@@ -1022,7 +1008,8 @@ Here is my bed. Sleep give thee all his rest!
 
 HERMIA
 With half that wish the wisher's eyes be pressed!
-They sleep.
+
+        (They sleep)
 
         (Enter Robin)
 
@@ -1042,8 +1029,7 @@ Pretty soul, she durst not lie
 Near this lack-love, this kill-courtesy.-
 Churl, upon thy eyes I throw
 All the power this charm doth owe.
-He anoints Lysander's eyelids
-with the nectar.
+        (He anoints Lysander's eyelids with the nectar)
 When thou wak'st, let love forbid
 Sleep his seat on thy eyelid.
 So, awake when I am gone,
@@ -1225,8 +1211,7 @@ wildfowl than your lion living, and we ought to look
 to 't.
 
 SNOUT
-Therefore another prologue must tell he is not
-a lion.
+Therefore another prologue must tell he is not a lion.
 
 BOTTOM
 Nay, you must name his name, and half his
@@ -1332,7 +1317,7 @@ come again.
 FLUTE
 Most radiant Pyramus, most lily-white of hue,
 Of color like the red rose on triumphant brier,
-Most brisky juvenal and eke most lovely dew Jew,
+Most brisky juvenal and eke most lovely dew,
 As true as truest horse, that yet would never tire.
 I'll meet thee, Pyramus, at Ninny's tomb.
 
@@ -1447,7 +1432,7 @@ And they shall fetch thee jewels from the deep
 And sing while thou on pressed flowers dost sleep.
 And I will purge thy mortal grossness so
 That thou shalt like an airy spirit go.-
-Peaseblossom, Cobweb, Mote, and Mustardseed!
+Peaseblossom, and Mustardseed!
 
         (Enter Peaseblossom and Mustardseed)
 
@@ -1592,7 +1577,8 @@ Stand close. This is the same Athenian.
 
 ROBIN
 This is the woman, but not this the man.
-They step aside.
+
+        (They step aside)
 
 DEMETRIUS
 O, why rebuke you him that loves you so?
@@ -1662,7 +1648,8 @@ So sorrow's heaviness doth heavier grow
 For debt that bankrout sleep doth sorrow owe,
 Which now in some slight measure it will pay,
 If for his tender here I make some stay.
-He lies down and falls asleep.
+
+        (He lies down and falls asleep)
 
         (to Robin)
 OBERON
@@ -1689,7 +1676,7 @@ Swifter than arrow from the Tartar's bow.
 
         (He exits)
 
-        (applying the nectar to Demetrius' eyes)
+        (Applying the nectar to Demetrius' eyes)
 OBERON
 Flower of this purple dye,
 Hit with Cupid's archery,
@@ -1719,7 +1706,8 @@ Then will two at once woo one.
 That must needs be sport alone.
 And those things do best please me
 That befall prepost'rously.
-They step aside.
+
+        (They step aside)
 
         (Enter Lysander and Helena)
 
@@ -1844,12 +1832,7 @@ The sisters' vows, the hours that we have spent
 When we have chid the hasty-footed time
 For parting us-O, is all forgot?
 All schooldays' friendship, childhood innocence?
-We, Hermia, like two artificial gods,
-Have with our needles created both one flower,
-Both on one sampler, sitting on one cushion,
-Both warbling of one song, both in one key,
-As if our hands, our sides, voices, and minds
-Had been incorporate. So We grew together
+We grew together
 Like to a double cherry, seeming parted,
 But yet a union in partition,
 Two lovely berries molded on one stem;
@@ -1912,8 +1895,7 @@ If she cannot entreat, I can compel.
 
 LYSANDER
 Thou canst compel no more than she entreat.
-Thy threats have no more strength than her weak
-prayers.-
+Thy threats have no more strength than her weak prayers.-
 Helen, I love thee. By my life, I do.
 I swear by that which I will lose for thee,
 To prove him false that says I love thee not.
@@ -1929,7 +1911,8 @@ Quick, come.
 
 HERMIA
 Lysander, whereto tends all this?
-She takes hold of Lysander.
+
+        (She takes hold of Lysander)
 
 LYSANDER
 Away! you Ethiop!
@@ -1985,7 +1968,8 @@ And never did desire to see thee more.
 Therefore be out of hope, of question, of doubt.
 Be certain, nothing truer, 'tis no jest
 That I do hate thee and love Helena.
-Hermia turns him loose.
+
+        (Hermia turns him loose)
 
 HERMIA
 O me! To Helena. You juggler, you cankerblossom,
@@ -2090,7 +2074,7 @@ DEMETRIUS
 
 HERMIA
 You, mistress, all this coil is long of you.
-        (Helena retreats.)
+        (Helena retreats)
 Nay, go not back.
 
 HELENA
@@ -2134,7 +2118,7 @@ And from each other look thou lead them thus,
 Till o'er their brows death-counterfeiting sleep
 With leaden legs and batty wings doth creep.
 Then crush this herb into Lysander's eye,
-He gives a flower to Robin.
+        (He gives a flower to Robin)
 Whose liquor hath this virtuous property,
 To take from thence all error with his might
 And make his eyeballs roll with wonted sight.
@@ -2231,7 +2215,8 @@ That fallen am I in dark uneven way,
 And here will rest me. Come, thou gentle day,
 For if but once thou show me thy gray light,
 I'll find Demetrius and revenge this spite.
-He lies down and sleeps.
+
+        (He lies down and sleeps)
 
         (Enter Robin and Demetrius)
 
@@ -2255,7 +2240,8 @@ If ever I thy face by daylight see.
 Now go thy way. Faintness constraineth me
 To measure out my length on this cold bed.
 By day's approach look to be visited.
-He lies down and sleeps.
+
+        (He lies down and sleeps)
 
         (Enter Helena)
 
@@ -2266,7 +2252,8 @@ That I may back to Athens by daylight
 From these that my poor company detest.
 And sleep, that sometimes shuts up sorrow's eye,
 Steal me awhile from mine own company.
-She lies down and sleeps.
+
+        (She lies down and sleeps)
 
 ROBIN
 Yet but three? Come one more.
@@ -2284,7 +2271,8 @@ I can no further crawl, no further go.
 My legs can keep no pace with my desires.
 Here will I rest me till the break of day.
 Heavens shield Lysander if they mean a fray!
-She lies down and sleeps.
+
+        (She lies down and sleeps)
 
 ROBIN
 On the ground
@@ -2292,8 +2280,7 @@ Sleep sound.
 I'll apply
 To your eye,
 Gentle lover, remedy.
-Robin applies the nectar
-to Lysander's eyes.
+        (Robin applies the nectar to Lysander's eyes)
 When thou wak'st,
 Thou tak'st
 True delight
@@ -2332,8 +2319,7 @@ PEASEBLOSSOM
 Ready.
 
 BOTTOM
-Scratch my head, Peaseblossom. Where's
-Monsieur Cobweb?
+Scratch my head, Peaseblossom. Where's Monsieur Cobweb?
 
 PEASEBLOSSOM
 Ready.
@@ -2428,7 +2414,7 @@ May all to Athens back again repair
 And think no more of this night's accidents
 But as the fierce vexation of a dream.
 But first I will release the Fairy Queen.
-He applies the nectar to her eyes.
+        (He applies the nectar to her eyes)
 Be as thou wast wont to be.
 See as thou wast wont to see.
 Dian's bud o'er Cupid's flower
@@ -2457,11 +2443,10 @@ Music, ho, music such as charmeth sleep!
 
         (removing the ass-head from Bottom)
 ROBIN
-Now, when thou wak'st, with thine own fool's eyes
-peep.
+Now, when thou wak'st, with thine own fool's eyes peep.
 
 OBERON
-Sound music.  Music.
+        (Music)
 Come, my queen, take hands with me.
 And rock the ground whereon these sleepers be.
 Titania and Oberon dance.
@@ -2544,12 +2529,12 @@ It is, my lord.
 THESEUS
 Go, bid the huntsmen wake them.  with their horns.
         (A Servant exits)
-Shout within. Wind horns. They all start up.
+        (Shout within. Wind horns. They all start up.)
 
 THESEUS
 Good morrow, friends. Saint Valentine is past.
 Begin these woodbirds but to couple now?
-Demetrius, Helena, Hermia, and Lysander kneel.
+        (Demetrius, Helena, Hermia, and Lysander kneel)
 
 LYSANDER
 Pardon, my lord.
@@ -2678,12 +2663,10 @@ death.
         (Enter Quince, Flute, Snout, and Starveling)
 
 QUINCE
-Have you sent to Bottom's house? Is he come
-home yet?
+Have you sent to Bottom's house? Is he come home yet?
 
 STARVELING
-He cannot be heard of. Out of doubt he
-is transported.
+He cannot be heard of. Out of doubt he is transported.
 
 FLUTE
 If he come not, then the play is marred. It goes
@@ -2694,8 +2677,7 @@ It is not possible. You have not a man in all
 Athens able to discharge Pyramus but he.
 
 FLUTE
-No, he hath simply the best wit of any handicraftman
-in Athens.
+No, he hath simply the best wit of any handicraftman in Athens.
 
 QUINCE
 Yea, and the best person too, and he is a very
@@ -2724,12 +2706,10 @@ in Pyramus, or nothing!
         (Enter Bottom)
 
 BOTTOM
-Where are these lads? Where are these
-hearts?
+Where are these lads? Where are these hearts?
 
 QUINCE
-Bottom! O most courageous day! O most happy
-hour!
+Bottom! O most courageous day! O most happy hour!
 
 BOTTOM
 Masters, I am to discourse wonders. But ask
@@ -2834,12 +2814,7 @@ Make choice of which your Highness will see first.
 THESEUS
 "The battle with the Centaurs, to be sung
 By an Athenian eunuch to the harp."
-We'll none of that. That have I told my love
-In glory of my kinsman Hercules.
-"The riot of the tipsy Bacchanals,
-Tearing the Thracian singer in their rage."
-That is an old device, and it was played
-When I from Thebes came last a conqueror.
+We'll none of that.
 "The thrice-three Muses mourning for the death
 Of learning, late deceased in beggary."
 That is some satire, keen and critical,
@@ -3013,8 +2988,7 @@ And this the cranny is, right and sinister,
 Through which the fearful lovers are to whisper.
 
 THESEUS
-Would you desire lime and hair to speak
-better?
+Would you desire lime and hair to speak better?
 
 PHILOSTRATE
 It is the wittiest partition that ever I heard
@@ -3285,8 +3259,7 @@ BOTTOM
 O, wherefore, Nature, didst thou lions frame,
 Since lion vile hath here deflowered my dear,
 Which is-no, no-which was the fairest dame
-That lived, that loved, that liked, that looked with
-cheer?
+That lived, that loved, that liked, that looked with cheer?
 Come, tears, confound!
 Out, sword, and wound
 The pap of Pyramus;
@@ -3304,12 +3277,10 @@ Now die, die, die, die, die.
         (Pyramus falls)
 
 DEMETRIUS
-No die, but an ace for him, for he is but
-one.
+No die, but an ace for him, for he is but one.
 
 LYSANDER
-Less than an ace, man, for he is dead, he is
-nothing.
+Less than an ace, man, for he is dead, he is nothing.
 
 THESEUS
 With the help of a surgeon he might yet
@@ -3330,8 +3301,7 @@ such a Pyramus. I hope she will be brief.
 
 THESEUS
 A mote will turn the balance, which Pyramus,
-which Thisbe, is the better. he for a man, God
-warrant us; she for a woman, God bless us.
+which Thisbe, is the better.
 
 PHILOSTRATE
 She hath spied him already with those
@@ -3363,17 +3333,19 @@ With shears his thread of silk.
 Tongue, not a word!
 Come, trusty sword,
 Come, blade, my breast imbrue!
-Thisbe stabs herself.
+        (Thisbe stabs herself)
 And farewell, friends.
 Thus Thisbe ends.
-Adieu, adieu, adieu.  Thisbe falls.
+Adieu, adieu, adieu.
+        (Thisbe falls)
 
 THESEUS
 Moonshine and Lion are left to bury the dead.
 
 PHILOSTRATE
 Ay, and Wall too.
-Bottom and Flute arise.
+
+        (Bottom and Flute arise)
 
 BOTTOM
 No, I assure you, the wall is down that
@@ -3429,20 +3401,6 @@ To sweep the dust behind the door.
         (Enter Oberon and Titania, King and Queen of Fairies, with all their train)
 
 OBERON
-Through the house give glimmering light,
-By the dead and drowsy fire.
-Every elf and fairy sprite,
-Hop as light as bird from brier,
-And this ditty after me,
-Sing and dance it trippingly.
-
-TITANIA
-First rehearse your song by rote,
-To each word a warbling note.
-Hand in hand, with fairy grace,
-Will we sing and bless this place.
-
-OBERON
 Now, until the break of day,
 Through this house each fairy stray.
 To the best bride-bed will we,
@@ -3455,10 +3413,6 @@ So shall all the couples three
 Ever true in loving be,
 And the blots of Nature's hand
 Shall not in their issue stand.
-Never mole, harelip, nor scar,
-Nor mark prodigious, such as are
-Despised in nativity,
-Shall upon their children be.
 
 OBERON
 With this field-dew consecrate
